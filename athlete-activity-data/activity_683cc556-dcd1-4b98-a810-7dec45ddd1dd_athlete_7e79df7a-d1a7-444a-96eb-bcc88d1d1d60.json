@@ -1,0 +1,14 @@
+[
+    {
+        "athlete_id": "7e79df7a-d1a7-444a-96eb-bcc88d1d1d60",
+        "device_id": 268583,
+        "stream_type": "gps",
+        "player_id": "",
+        "athlete_first_name": "Yu",
+        "athlete_last_name": "Yokowawa",
+        "jersey": "YY",
+        "team_id": "75054b55-9900-11e3-b9b6-22000af8166b",
+        "team_name": "Santa Clara University MSC",
+        "data": []
+    }
+]
