@@ -1,0 +1,14 @@
+[
+    {
+        "athlete_id": "ba1c9688-ac2e-49c2-af66-23e4f83cd841",
+        "device_id": 269138,
+        "stream_type": "gps",
+        "player_id": "",
+        "athlete_first_name": "Aidan",
+        "athlete_last_name": "Wilmott",
+        "jersey": "AW",
+        "team_id": "75054b55-9900-11e3-b9b6-22000af8166b",
+        "team_name": "Santa Clara University MSC",
+        "data": []
+    }
+]

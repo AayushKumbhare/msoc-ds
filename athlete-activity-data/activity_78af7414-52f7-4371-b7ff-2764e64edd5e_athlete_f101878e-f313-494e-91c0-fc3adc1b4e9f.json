@@ -1,0 +1,14 @@
+[
+    {
+        "athlete_id": "f101878e-f313-494e-91c0-fc3adc1b4e9f",
+        "device_id": 269053,
+        "stream_type": "gps",
+        "player_id": "",
+        "athlete_first_name": "Will",
+        "athlete_last_name": "Wiersdorf",
+        "jersey": "WW",
+        "team_id": "75054b55-9900-11e3-b9b6-22000af8166b",
+        "team_name": "Santa Clara University MSC",
+        "data": []
+    }
+]

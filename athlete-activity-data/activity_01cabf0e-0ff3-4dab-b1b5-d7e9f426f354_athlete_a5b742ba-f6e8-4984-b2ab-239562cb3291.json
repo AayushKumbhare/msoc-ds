@@ -1,0 +1,14 @@
+[
+    {
+        "athlete_id": "a5b742ba-f6e8-4984-b2ab-239562cb3291",
+        "device_id": 269131,
+        "stream_type": "gps",
+        "player_id": "",
+        "athlete_first_name": "Jonathan",
+        "athlete_last_name": "Aidlberg",
+        "jersey": "JA",
+        "team_id": "75054b55-9900-11e3-b9b6-22000af8166b",
+        "team_name": "Santa Clara University MSC",
+        "data": []
+    }
+]

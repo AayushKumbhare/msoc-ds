@@ -2,6 +2,8 @@ import dotenv
 import os
 import requests
 import json
+import pandas as pd
+from datetime import datetime
 
 dotenv.load_dotenv()
 MSOC_API_KEY = os.getenv("MSOC_API_KEY")
@@ -72,5 +74,4 @@ if __name__ == "__main__":
     if activities and athletes:
         get_response(activities, athletes)
     else:
-        print("No activities or athletes found.")\
-    
+        print("No activities or athletes found.")
