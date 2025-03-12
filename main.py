@@ -20,6 +20,8 @@ features = ["v", "a", "delta_v", "delta_a", "mp", "delta_pl", "sl", "pl"]
 scaler = StandardScaler()
 df[features] = scaler.fit_transform(df[features])
 
+
+#Change to add delta_v and delta_a
 df["risk_score"] = (
     (0.3 * abs(df["a"])) +   # Acceleration
     (0.2 * df["v"]) +        # Speed
